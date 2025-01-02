@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+tracked_objects/
+yolo11s.pt
+output_video.mp4
